@@ -100,6 +100,8 @@ Learned a lot about React.js and it's ecosystem as I used it extensively in 2 en
     peerlist: "https://peerlist.io/mohamedaliamair",
     medium: "https://medium.com/@danny-codes",
     upwork: "https://www.upwork.com/freelancers/~01a235ab8ff665345d",
+    whatsapp: "https://wa.me/21652911375",
+    telegram: "https://t.me/AmairaDev",
   },
 };
 
